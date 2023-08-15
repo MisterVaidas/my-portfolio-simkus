@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar Styles */
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Hero Styles */
+#home {
+  background-color: #f4f4f4;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+/* About Styles */
+#about {
+  padding: 2rem 0;
+}
+
+/* Projects Styles */
+#projects {
+  background-color: #f9f9f9;
+  padding: 2rem 0;
+}
+
+/* Resume Styles */
+#resume {
+  padding: 2rem 0;
+}
+
+/* Contact Styles */
+#contact {
+  background-color: #f4f4f4;
+  padding: 2rem 0;
+}
+
+/* Basic responsive layout */
+@media (max-width: 768px) {
+  nav a {
+      display: block;
+      margin: 0.5rem 0;
+  }
+}
