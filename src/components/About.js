@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
     return (
         <section id="about">
-            <img src="#" alt="Vaidas Simkus" />
+            <img src="/images/VaidasSimkus.png" alt="Vaidas Simkus" />
             <h2>About Me</h2>
             <p>Bio Here</p>
             <ul>

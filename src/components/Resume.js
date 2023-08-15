@@ -5,7 +5,7 @@ const Resume = () => {
         <section id="resume">
             <h2>Resume</h2>
             <p>Have a look at my detailed profesional journey.</p>
-            <a href="#" target="_blank" rel="noopener noreferrer">Download Resume</a>
+            <a href="/assets/documents/latestCV.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
         </section>
     );
 }
