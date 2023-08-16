@@ -2,7 +2,9 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import HomePage from './components/HomePage';
-import './styles/App.css'; 
+import './styles/App.css';
+import 'font-awesome/css/font-awesome.min.css';
+
 
 function App() {
     return (
